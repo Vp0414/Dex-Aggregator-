@@ -1,4 +1,9 @@
 # Dex Aggregator
+[![Tests](https://github.com/Vp0414/Dex-Aggregator-/actions/workflows/test.yml/badge.svg)](https://github.com/Vp0414/Dex-Aggregator-/actions)
+![Solidity](https://img.shields.io/badge/Solidity-0.8.20-black)
+![Hardhat](https://img.shields.io/badge/Hardhat-2.26.x-yellow)
+![ethers](https://img.shields.io/badge/ethers-v6-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
 Minimal DEX quote + secure router demo.
 
