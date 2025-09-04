@@ -13,3 +13,7 @@ yarn-error.log*
 .idea/
 .vscode/
 *.swp
+node_modules/
+artifacts/
+cache/
+typechain-types/
